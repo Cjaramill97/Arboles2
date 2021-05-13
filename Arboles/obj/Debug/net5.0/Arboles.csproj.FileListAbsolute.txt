@@ -1,0 +1,16 @@
+D:\PROGRAMACION III\Arboles\Arboles\bin\Debug\net5.0\Arboles.exe
+D:\PROGRAMACION III\Arboles\Arboles\bin\Debug\net5.0\Arboles.deps.json
+D:\PROGRAMACION III\Arboles\Arboles\bin\Debug\net5.0\Arboles.runtimeconfig.json
+D:\PROGRAMACION III\Arboles\Arboles\bin\Debug\net5.0\Arboles.runtimeconfig.dev.json
+D:\PROGRAMACION III\Arboles\Arboles\bin\Debug\net5.0\Arboles.dll
+D:\PROGRAMACION III\Arboles\Arboles\bin\Debug\net5.0\ref\Arboles.dll
+D:\PROGRAMACION III\Arboles\Arboles\bin\Debug\net5.0\Arboles.pdb
+D:\PROGRAMACION III\Arboles\Arboles\obj\Debug\net5.0\Arboles.csprojAssemblyReference.cache
+D:\PROGRAMACION III\Arboles\Arboles\obj\Debug\net5.0\Arboles.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION III\Arboles\Arboles\obj\Debug\net5.0\Arboles.AssemblyInfoInputs.cache
+D:\PROGRAMACION III\Arboles\Arboles\obj\Debug\net5.0\Arboles.AssemblyInfo.cs
+D:\PROGRAMACION III\Arboles\Arboles\obj\Debug\net5.0\Arboles.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION III\Arboles\Arboles\obj\Debug\net5.0\Arboles.dll
+D:\PROGRAMACION III\Arboles\Arboles\obj\Debug\net5.0\ref\Arboles.dll
+D:\PROGRAMACION III\Arboles\Arboles\obj\Debug\net5.0\Arboles.pdb
+D:\PROGRAMACION III\Arboles\Arboles\obj\Debug\net5.0\Arboles.genruntimeconfig.cache
